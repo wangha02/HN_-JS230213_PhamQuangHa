@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.black-white {
+    cursor: pointer;
+}
+
+.search-reviews {
+    width: 100%;
+    background-color: #d1d1d1;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.search-reviews input{
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
